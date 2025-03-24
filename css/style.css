@@ -90,13 +90,13 @@ textarea {
 :root {
   --color-dark: #000;
   --color-darkish: #666666;
-  --color-night: #414141;
+  --color-night: #414142;
   --color-greyish: #cacaca;
   --color-grey: #e5e5e5;
   --color-light: #fff;
-  --color-active: #e27637;
-  --color-btn: #c47807;
-  --color-orange: #f3c385;
+  --color-active: #ec742f;
+  --color-btn: #a16306;
+  --color-orange: #eecca0;
 }
 
 .page {
@@ -343,7 +343,7 @@ textarea {
   .how__btn-left {
     margin-right: 10px;
     min-width: 55%;
-    border-radius: 8px;
+    border-radius: 10px;
   }
   .how__btn-right {
     min-width: 40%;
